@@ -3,5 +3,4 @@ var memberObject = {
     manager:'aaa',
     developer:'bbb',
     customer:'ccc',
-    prodector:'ddd'
 }
